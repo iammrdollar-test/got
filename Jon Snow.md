@@ -1,3 +1,5 @@
+### "I know some things."
+---
 ### "I heard it was best to keep your enemies close."
 ---
 ### "Don’t call me Lord Snow."
@@ -8,4 +10,3 @@
 ---
 ### "They were born on the wrong side of the Wall- doesn't make them monsters."
 ---
-
